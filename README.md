@@ -1,2 +1,15 @@
-# BCG-GenAI-Financial-Chatbot
-An AI-powered financial chatbot built during the BCG GenAI job simulation on Forage. This Python-based project interprets financial data from 10-K and 10-Q reports for companies like Microsoft, Apple, and Tesla. Users can query revenue, net income, total assets, and compare financial metrics across companies and years.
+# BCG GenAI Financial Chatbot
+
+## Overview
+This project is an AI-powered financial chatbot built during BCG’s GenAI job simulation on Forage. It interprets financial data from 10-K and 10-Q reports to provide insights on revenue, assets, and net income for companies like Microsoft, Apple, and Tesla.
+
+## Features
+- Query financial data by company and year
+- Compare revenues of multiple companies
+- Analyze net income trends
+- Built using Python and pandas
+
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install pandas
